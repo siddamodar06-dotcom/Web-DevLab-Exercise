@@ -1,7 +1,7 @@
 # P3: Feature-branch Git workflow
 
 ## Goal
-Make a change on a separate branch, push that branch, and propose it for review with a Pull Request.
+Make a change on a separate branch, push that branch, and propose it for review with Pull Request.
 
 ## Steps
 1. Start from the repository's main branch and update it with `git pull`.
