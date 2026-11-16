@@ -1,4 +1,4 @@
-# P12: Portfolio grid with CSS Grid areas
+# P12: Portfolio grid with CSS Grid area
 
 This page uses named CSS Grid areas to arrange a projects heading across three columns, three project cells, a hobbies heading across three columns, and three hobby cells.
 
