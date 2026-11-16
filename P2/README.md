@@ -1,7 +1,7 @@
 # P2: Portfolio repo with an initial commit
 
 ## Goal
-Create a Git repository for the portfolio and record its first version in a commit.
+Create a Git repository for the portfolio and record the first version in a commit.
 
 ## Steps
 1. Open Terminal in the portfolio project folder.
