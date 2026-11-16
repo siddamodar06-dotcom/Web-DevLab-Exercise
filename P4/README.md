@@ -3,7 +3,7 @@
 ## Goal
 Document the portfolio repository and mark a version with a Git tag.
 
-## Steps
+## Step
 1. Write a `README.md` that names the project and explains what it contains.
 2. Stage and commit the README.
 3. After the version you want to mark is on `main`, create a version tag.
