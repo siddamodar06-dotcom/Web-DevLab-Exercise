@@ -1,4 +1,4 @@
-# P7: Quadratic equations
+# P7: Quadratic equation
 
 This page explains quadratic equations, their graphical meaning, the relationship between roots and coefficients, and the quadratic formula.
 
