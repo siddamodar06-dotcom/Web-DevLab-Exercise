@@ -8,7 +8,6 @@
     "hobby-one hobby-two hobby-three";
   gap: 20px;
 }
-
 .projects-title {
   grid-area: projects-title;
 }
