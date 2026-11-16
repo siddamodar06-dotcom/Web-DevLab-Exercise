@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web DevLab Exercises
 
 A collection of projects practicing terminal navigation, Git and GitHub workflows, HTML, and CSS.
@@ -28,3 +29,7 @@ A collection of projects practicing terminal navigation, Git and GitHub workflow
 Open a project's `index.html` in a web browser. For example, open `P13/index.html` to view P13.
 
 Projects that include a `style.css` file use it for their page styling.
+=======
+# Web-DevLab-Exercise
+Web Dev Lab exercise.given in lab classes
+>>>>>>> aace6ab8f79c32346044e94f267530729c7dcfa9
