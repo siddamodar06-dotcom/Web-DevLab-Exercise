@@ -5,7 +5,6 @@ header {
   flex-wrap: wrap;
   gap: 20px;
 }
-
 .header-links {
   display: flex;
   justify-content: flex-end;
